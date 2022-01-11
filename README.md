@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="right" alt="JaoTz-pic" height="150" style="border-radius:100px;" src="https://lh3.googleusercontent.com/zVlAqduNBg89eTR0XMmOztR-a6r5DpMJX5LJSnQlxNUjXeE8E4FYGjS_dgnk5oukUA_5wpxCuitLzwk5TFsXVIpHrl3GzLrmUrzOMCrG8rR8MRMeMhaKx0Ts3podZzIwYZxJkEk-EPpLwElFjC7iP4x30tJtBEL99grfoINjDrosJVz5ggwlqx7KZlMzQtk6JRID4nVFwlTWI8r4o6LgzqH-aiQmFKjnzLJBkySZ9cQ1qlOE3Ga3ngZq5LW-JM3qRHZ0YYVNQPYIeem-zI7jk1_JtSSRLWbfdZJUX63lstMD0cTsMktK1xu4f3XmB_lUIREfZCuK6dB4agv7KPRUcqXivOlZuCYDO7G2gB4U4-X-FRCc0edi0ylhQj1Zsdz4wvDv8QDYSwIENlRFXPrISLjqmMYse5KG8wCRGd2hhkaPEaMAg23QlladFmwMTNha2nqSDF60PVDuuSEIYl2OmE5BvpXnEOw48E8Ak_fuMZs43nnwP1yfkoJl6PEHxRcOynfSFOpDD1EGBoTFujQGfYv2ZEruTfrtANsrW8oo8zDeX6TSuWqnytLI-LWvAFFB3P2DbTqnN-JaV_KDdDSmgijE3jx_rHd_dkiXLj-elRWVymJH4rdUEkVLSFSK2DDyVDV1cMeSdHl30fBpS1Cky2g2hm11a296Q83gqrW5YjLuH6FPLgnBfTv1TzlHLDB2vkktPpHv_okcYZs-Y0rWzgAESA=s594-no?authuser=0">
+  <img align="right" alt="JaoTz-pic" height="150" style="border-radius:100px;" src="https://avatars.githubusercontent.com/u/49381828?s=400&u=ee9f49a8e9cd0026cbd965234cef5d0029697aa1&v=40">
 </div>
   
 ##
